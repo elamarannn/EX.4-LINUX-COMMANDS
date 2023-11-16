@@ -231,7 +231,7 @@ Code:
 	wget https://example.com/file.zip
 Output: 
 	Downloads file.zip from the specified URL.
- ```
+ 
 
 ## RESULT:
 
