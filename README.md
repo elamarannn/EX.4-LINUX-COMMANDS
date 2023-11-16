@@ -178,6 +178,7 @@ Code:
 	df -h
 Output: 
 	Shows disk space usage in a human-readable format.
+```
 COMMAND 20: du - Display Directory Space Usage
 ```
 Syntax: 
@@ -231,7 +232,7 @@ Code:
 	wget https://example.com/file.zip
 Output: 
 	Downloads file.zip from the specified URL.
- 
+``` 
 
 ## RESULT:
 
